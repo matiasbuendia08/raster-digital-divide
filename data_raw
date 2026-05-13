@@ -1,6 +1,0 @@
-## Input Data
-
-| File | Description | Native CRS |
-|------|-------------|------------|
-| `VNL_cusco_2025.tif` | NASA Black Marble nighttime radiance (nW·cm⁻²·sr⁻¹) | EPSG:4326 |
-| `kernel_cobmovil2019_50m.tif` | Mobile coverage kernel density | EPSG:32719 |
